@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Nasib
-- 👀 I’m interested in machine learning and signal processing
-<!-- - 🌱 I’m currently learning about advanced s -->
-<!-- - 💞️ I’m looking to collaborate on ... -->
-- 📫 How to reach me nasib(dot)n(at)gmail(dot)com
+- Hello, ciao, sali, 
+- interested in machine learning, information theory, signal processing, and robotics
+- currently learning about model based RL in bayesian world models
+- reach me via email nasib(dot)n(at)gmail(dot)com
 
 <!---
 nanaimi/nanaimi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
