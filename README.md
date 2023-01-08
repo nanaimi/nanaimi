@@ -1,4 +1,4 @@
-- Hello, ciao, sali, 
+- Ciao!
 - interested in machine learning, information theory, signal processing, and robotics
 - currently learning about model based RL in bayesian world models
 - reach me via email nasib(dot)n(at)gmail(dot)com
